@@ -1,1 +1,2 @@
-# modelatge_BBDD
+# 1ª entrega ejercicios bbdd. 
+modelatge_BBDD
